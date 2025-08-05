@@ -1,1 +1,2 @@
-# Robotic-arm-5-aixe
+
+In this project, I designed a 5 Degrees of Freedom (5 DoF) robotic arm using SolidWorks. The robotic arm is composed of multiple joints and segments that simulate human-like arm movement. It can rotate, lift, and position an end-effector in a 3D workspace<img width="993" height="553" alt="Screenshot 2025-08-03 184321" src="https://github.com/user-attachments/assets/eff990f0-0dfc-4173-975e-2d063af622b6" />
